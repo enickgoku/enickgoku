@@ -16,7 +16,7 @@ const nicholasEngelhardt = {
   favorites: {
     color: "#B41515", // Red
     food: "Pierogies",
-    snack: "Pistachios"
+    snack: "Pistachios",
   },
   lookingForWork: true,
   willingToRelocate: false,
