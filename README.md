@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**enickgoku/enickgoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const nicholasEngelhardt = {
+  pronouns: ["He", "Him"],
+  fullName: "Nicholas Engelhardt",
+  currentHome: MI.howell,
+  age: 31,
+  techSkills: {
+    fullstack: ["MERN", "PERN"],
+    backend: ["Node.js", "RESTful APIs" "Express", "MongoDB", "PostgreSQL", "Knex", "JWT", "Cors"],
+    frontend: ["JavaScript", "React", "HTML5", "CSS3", "SCSS"],
+    misc: ["NPM", "Git", "GitHub", "VS Code", "Bootstrap", "Tailwind", "Emotion"]
+  },
+  favorite: {
+    color: "#B41515", // Red
+    food: "Pierogies",
+    snack: "Pistachios"
+  },
+  lookingForWork: true,
+  willingToRelocate: false,
+  willingToCollaborate: true,
+}
