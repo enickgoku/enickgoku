@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-```json
+```
 const nicholasEngelhardt = {
   pronouns: ["He", "Him"],
   fullName: "Nicholas Engelhardt",
