@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-```
+```json
 const nicholasEngelhardt = {
   pronouns: ["He", "Him"],
   fullName: "Nicholas Engelhardt",
@@ -13,7 +13,7 @@ const nicholasEngelhardt = {
     frontend: ["JavaScript", "React", "HTML5", "CSS3", "SCSS"],
     misc: ["NPM", "Git", "GitHub", "VS Code", "Bootstrap", "Tailwind", "Emotion"]
   },
-  favorite: {
+  favorites: {
     color: "#B41515", // Red
     food: "Pierogies",
     snack: "Pistachios"
