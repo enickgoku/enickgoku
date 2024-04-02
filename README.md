@@ -10,7 +10,7 @@ const nicholasEngelhardt = {
   techSkills: {
     fullstack: ["MERN", "PERN"],
     backend: ["Node.js", "RESTful APIs" "Express", "MongoDB", "PostgreSQL", "Knex", "JWT", "Cors"],
-    frontend: ["JavaScript", "TypeScript", "React Native", "React", "HTML5", "CSS3", "SCSS"],
+    frontend: ["JavaScript", "TypeScript", "React Native", "React", "NextJS", "HTML5", "CSS3", "SCSS"],
     misc: ["NPM", "Git", "GitHub", "VS Code", "Bootstrap", "Tailwind", "Emotion"]
   },
   favorites: {
